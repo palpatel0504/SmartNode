@@ -1,0 +1,102 @@
+text,label
+"The issue has been resolved successfully.",Closed
+"Everything is working fine now.",Closed
+"The complaint has been fixed.",Closed
+"Thank you, my problem is solved.",Closed
+"The ticket can be closed.",Closed
+"The service is restored and functioning normally.",Closed
+"The technician fixed the issue.",Closed
+"I can confirm the problem is resolved.",Closed
+"The application is working correctly now.",Closed
+"The requested change has been completed.",Closed
+"The customer is satisfied with the resolution.",Closed
+"No further action is required.",Closed
+"The matter has been addressed successfully.",Closed
+"The system is back online and stable.",Closed
+"The bug has been fixed and verified.",Closed
+"We received the solution and it works.",Closed
+"The device is operating normally again.",Closed
+"The complaint has been handled.",Closed
+"The case can now be marked complete.",Closed
+"Support resolved the issue today.",Closed
+"The internet connection is restored.",Closed
+"The replacement solved the problem.",Closed
+"The update fixed the issue.",Closed
+"The customer confirmed the resolution.",Closed
+"Everything has been completed successfully.",Closed
+"The concern was addressed and closed.",Closed
+"The service request is completed.",Closed
+"The issue was fixed after the update.",Closed
+"The user confirmed everything is working.",Closed
+"The resolution has been accepted by the customer.",Closed
+"My internet is working now thank you.",Closed
+"The installation issue has been fixed.",Closed
+"The engineer resolved the complaint.",Closed
+
+"My issue is still pending.",Open
+"No update has been provided yet.",Open
+"I am still waiting for support.",Open
+"The problem remains unresolved.",Open
+"The issue is not fixed yet.",Open
+"Waiting for a technician visit.",Open
+"The complaint is still open.",Open
+"No one has contacted me.",Open
+"I am waiting for further assistance.",Open
+"The request is under review.",Open
+"The ticket is still in progress.",Open
+"We are awaiting a response.",Open
+"The issue has not been resolved.",Open
+"The customer is still facing the problem.",Open
+"Investigation is currently ongoing.",Open
+"There is no resolution yet.",Open
+"The matter is being worked on.",Open
+"We are waiting for approval.",Open
+"The service is not restored yet.",Open
+"The problem continues to occur.",Open
+"The case remains active.",Open
+"We are monitoring the issue.",Open
+"The customer needs an update.",Open
+"The request has not been completed.",Open
+"Further action is still pending.",Open
+"The support team is looking into it.",Open
+"The issue is under investigation.",Open
+"The ticket remains unresolved.",Open
+"We are working on a solution.",Open
+"The customer is awaiting a response.",Open
+"I raised a complaint yesterday and still have no update.",Open
+"The service request is pending.",Open
+"The issue has not been looked at yet.",Open
+
+"Server is completely down.",Urgent
+"Immediate assistance is required.",Urgent
+"This is a critical issue.",Urgent
+"Customer is extremely unhappy.",Urgent
+"Urgent action is needed right now.",Urgent
+"The production system has failed.",Urgent
+"Service outage affecting all users.",Urgent
+"Critical escalation is required.",Urgent
+"The website is unavailable.",Urgent
+"Business operations are impacted.",Urgent
+"The application crashed unexpectedly.",Urgent
+"Multiple customers are affected.",Urgent
+"System failure requires immediate attention.",Urgent
+"The database is not responding.",Urgent
+"A major incident has occurred.",Urgent
+"Need emergency support immediately.",Urgent
+"The platform is inaccessible.",Urgent
+"Critical functionality is broken.",Urgent
+"The issue is severely impacting users.",Urgent
+"There is a complete service disruption.",Urgent
+"Customer demands immediate resolution.",Urgent
+"The server outage is ongoing.",Urgent
+"High priority incident reported.",Urgent
+"Immediate escalation to management required.",Urgent
+"The system is unusable at the moment.",Urgent
+"The payment service is down.",Urgent
+"The application is failing for all users.",Urgent
+"Critical bug affecting production.",Urgent
+"The network outage is impacting operations.",Urgent
+"The customer is threatening escalation.",Urgent
+"The server is down and customers cannot login.",Urgent
+"Production is impacted and needs immediate attention.",Urgent
+"The website is unavailable for all users.",Urgent

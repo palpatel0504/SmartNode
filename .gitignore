@@ -1,0 +1,17 @@
+myenv/
+venv/
+
+__pycache__/
+*.pyc
+
+.env
+
+uploads/
+
+model/*.pkl
+
+.DS_Store
+
+.idea/
+.vscode/
+.history/
